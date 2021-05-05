@@ -11,5 +11,5 @@ Cross Token Bridge
 
 **After Deployment**
 
-Admin set "Swapfee" from both SwapM2B and SwapB2M.
-User call RegisterSwapPairToken from SwapM2B.
+1. Admin set "Swapfee" from both SwapM2B and SwapB2M.
+2. User call RegisterSwapPairToken from SwapM2B.
