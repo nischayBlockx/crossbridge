@@ -28,3 +28,26 @@ same as for Matic to BSC, while transferring Matic to Bsc we dont need to regist
 In this Contract we just locking the Matic tokens by transferrig Tokens to Admin address to User Address and minting BEP20 tokens to users address during MATIC TO BSC.
 while in BSC TO MATIC , we just burning the the BEP20 Tokens from Users address and unlock the Matic Tokens.
 
+**Referances**
+
+https://www.binance.org/en/blog/open-source-ethereum-and-binance-smart-chain-bi-directional-bridge-solution/
+
+https://github.com/jklepatch/eattheblocks/tree/master/screencast/314-eth-bsc-bridge/contracts
+
+https://docs.matic.network/docs/develop/ethereum-matic/pos/getting-started
+
+https://github.com/maticnetwork/pos-portal/tree/master/contracts
+
+https://www.youtube.com/watch?v=LFoTlG-4TmU&ab_channel=EatTheBlocks
+
+https://www.xdaichain.com/for-users/bridges/omnibridge
+
+https://github.com/terra-project/shuttle/tree/main/contracts/contracts
+
+https://github.com/binance-chain/eth-bsc-swap-contracts/tree/master/contracts
+
+https://github.com/JustLiquidity/tokenbridge-erc20-bep20/tree/master/contracts
+
+https://www.xdaichain.com/for-users/bridges/xdai-matic-connext-bridge
+
+https://github.com/QuickSwap/quickswap-core
